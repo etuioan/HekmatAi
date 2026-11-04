@@ -1,0 +1,5 @@
+{
+  "_comment": "Fill in BEFORE the first evaluation run. 'similar' means: mean revisit cost differs by less than this many steps (95% intervals overlapping is not enough on its own). Propose the value from development-seed runs, then freeze it.",
+  "similarity_margin_steps": null,
+  "min_seeds": 20
+}
